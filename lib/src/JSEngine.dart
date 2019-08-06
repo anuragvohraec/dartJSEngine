@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:jsparser/jsparser.dart';
-import 'package:dartjsengine/dartjsengine.dart';
+import 'package:jsengine/jsengine.dart';
 import 'package:symbol_table/symbol_table.dart';
 
 /**

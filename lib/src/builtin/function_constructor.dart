@@ -1,5 +1,5 @@
 import 'package:jsparser/jsparser.dart';
-import 'package:dartjsengine/dartjsengine.dart';
+import 'package:jsengine/jsengine.dart';
 
 class JsFunctionConstructor extends JsConstructor {
   static JsFunctionConstructor singleton;

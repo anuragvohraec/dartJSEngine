@@ -1,5 +1,5 @@
 import 'package:jsparser/jsparser.dart';
-import 'package:dartjsengine/dartjsengine.dart';
+import 'package:jsengine/jsengine.dart';
 import 'package:symbol_table/symbol_table.dart';
 
 /// The Dart function that is responsible for the logic of a given [JsFunction].

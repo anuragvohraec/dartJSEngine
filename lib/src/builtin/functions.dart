@@ -1,4 +1,4 @@
-import 'package:dartjsengine/dartjsengine.dart';
+import 'package:jsengine/jsengine.dart';
 import 'boolean_constructor.dart';
 import 'function_constructor.dart';
 import 'misc.dart';

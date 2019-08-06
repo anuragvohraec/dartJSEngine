@@ -1,4 +1,4 @@
-import 'package:dartjsengine/dartjsengine.dart';
+import 'package:jsengine/jsengine.dart';
 
 class JsBooleanConstructor extends JsConstructor {
   static JsBooleanConstructor singleton;

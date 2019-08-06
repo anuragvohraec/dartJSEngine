@@ -1,3 +1,6 @@
+## 1.0.2 - 6 Aug 2019
+Renamed to just JS Engine and updated test case
+
 ## 1.0.1 - 6 Aug 2019
 Removed unwanted dependecies, like console, which was primary used for repl purpose
 

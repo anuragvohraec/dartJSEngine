@@ -1,5 +1,5 @@
 import 'package:jsparser/jsparser.dart';
-import 'package:dartjsengine/dartjsengine.dart';
+import 'package:jsengine/jsengine.dart';
 
 void loadMiscObjects(JSEngine jsengine) {
   var global = jsengine.global;
