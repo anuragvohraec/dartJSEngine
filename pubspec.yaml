@@ -11,7 +11,5 @@ dependencies:
   symbol_table: ^2.0.0
 dev_dependencies:
   test: ^1.6.5
-dependency_overrides:
-  lists:
-    git: https://github.com/anuragvohraec/lists.git
+
 
