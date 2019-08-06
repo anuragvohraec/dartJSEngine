@@ -2,13 +2,12 @@ name: dartjsengine
 description: JS engine for Dart.
 author: Anurag Vohra<anuragvohraec@gmail.com>
 homepage: https://github.com/anuragvohraec/dartJSEngine.git
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: ">=2.4.0 <3.0.0"
 
 dependencies:
-  logging: ^0.11.3
   jsparser: ^2.0.1
   symbol_table: ^2.0.0
 dev_dependencies:

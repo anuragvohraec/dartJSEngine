@@ -1,13 +1,8 @@
-import 'package:logging/logging.dart';
 import 'package:jsparser/jsparser.dart';
 import 'package:dartjsengine/dartjsengine.dart';
 
 main() {
   var jsengine = new JSEngine();
-  var logger = new Logger('samurai');
-
-  jsengine.global.properties['console'] = new JsConsole(logger);
-
   var program = parsejs("""
   function Car(make, model, year) {
   this.make = make;
